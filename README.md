@@ -16,7 +16,7 @@
 * JSX
 * Postman
 
-## Author :raising_hand_woman: :raising_hand_man:
+## Author :raising_hand_man:
 
 [Manuel Ochoa ](https://github.com/codemaoz90)
 
